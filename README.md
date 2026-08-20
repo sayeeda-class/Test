@@ -1,2 +1,3 @@
 # Test
-To my trainees how to create Repository in GitHub
+To show my trainees how to create a repository on GitHub
+Author: Sayeeda
